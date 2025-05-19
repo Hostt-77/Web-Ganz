@@ -1,0 +1,21 @@
+form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+  background-color: #f9f9f9;
+  margin: 40px;
+  border-radius: 50px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}
